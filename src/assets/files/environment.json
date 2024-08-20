@@ -11,5 +11,6 @@
     "basicTierDataOperationsCellularData": "540 MB",
     "basicBlockPrice": "US$ 299.00",
     "maximumCompileTime": "120 seconds",
-    "maximumCompilePayload": "50 MB"
+    "maximumCompilePayload": "50 MB",
+    "systemThreadRequired": "6.2.0"
 }

@@ -762,6 +762,11 @@
           "href": "/getting-started/developer-tools/workbench/"
         },
         {
+          "dir": "non-threaded-system-mode",
+          "title": "Non-threaded system mode",
+          "href": "/reference/discontinued/software/non-threaded-system-mode/"
+        },
+        {
           "dir": "windows",
           "title": "Windows SDK",
           "href": "/reference/discontinued/software/windows/"
